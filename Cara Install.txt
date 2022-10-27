@@ -1,0 +1,10 @@
+Installation:
+
+1). Copy file lua dan folder lib, lalu paste ke:
+     AppData\Roaming\Stand\Lua Scripts
+
+2). Copy Places dan paste ke:
+    AppData\Roaming\Stand
+    
+anda harus tp manual terlebih dahulu dari mod ada melalui:
+world-teleport to- saved place-monasex
